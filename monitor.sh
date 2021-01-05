@@ -1,8 +1,8 @@
 ######################################################################################################
-#! /bin/bash																						 #
-#																									 #
-# Author - Nithish vasala		                                                                     #
-# A shell script to monitor linux health															 #
+#! /bin/bash																						                                             #
+#																								                                                   	 #
+# Author - Nithish vasala		                                                                         #
+# A shell script to monitor linux health															                               #
 ######################################################################################################
 
 clear
